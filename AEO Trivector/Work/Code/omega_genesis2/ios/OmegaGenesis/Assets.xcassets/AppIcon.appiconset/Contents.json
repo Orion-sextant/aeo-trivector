@@ -1,0 +1,38 @@
+{
+  "images" : [
+    {
+      "filename" : "omega-40.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "omega-60.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "omega-76.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "omega-120.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "120x120"
+    },
+    {
+      "filename" : "omega-1024.png",
+      "idiom" : "ios-marketing",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

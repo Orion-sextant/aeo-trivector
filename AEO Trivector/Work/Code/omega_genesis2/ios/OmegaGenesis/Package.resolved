@@ -1,0 +1,15 @@
+{
+  "originHash" : "omega_genesis_consciousness_app",
+  "pins" : [
+    {
+      "identity" : "llama.cpp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ggerganov/llama.cpp",
+      "state" : {
+        "branch" : "master",
+        "revision" : "latest"
+      }
+    }
+  ],
+  "version" : 3
+}
